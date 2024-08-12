@@ -3,9 +3,9 @@ title: "Mosquito-borne infectious disease"
 author: "Mudassir Imam, Zhengnan Li"
 date: "`r Sys.Date()`"
 output: 
-  bookdown::pdf_book: default
   bookdown::gitbook:
     output_file: "Mosquito-borne_infectious_disease.html"
+  bookdown::pdf_book: default
 documentclass: book
 bibliography:
 - book.bib
